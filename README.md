@@ -21,7 +21,7 @@
 ## CSE 313 Data Communication
 
 
-### [Course outline](https://github.com/suptaphilip/Data-Communication/raw/Theory/CSE%20313%20Data%20Communication.pdf)
+### [Course outline](https://github.com/suptaphilip/Data-Communication/raw/Summer2019/CSE%20313%20Data%20Communication.pdf)
 
 
  
@@ -42,6 +42,6 @@
 
 ### Sample Questions
 
->[AI_Mid_Fall17]()
+>[Mid_Fall17]()
 
 
